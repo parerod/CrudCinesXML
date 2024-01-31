@@ -1,0 +1,85 @@
+<cines>
+    <cine localidad="Huelva" nombre="Cines Aqualon 4K">
+        <direccion>Centro Comercial Aqualon Glorieta Norte, s/n, 21001 Huelva</direccion>
+        <telefono>915265520</telefono>
+        <salas>
+            <sala aforo="100" numero="1">
+                <pelicula anho="2024" director="Ángeles Hernández" nombre="Faro">
+                    <clasificacion>+16</clasificacion>
+                    <idioma>Español</idioma>
+                    <duracion>99</duracion>
+                    <genero>Terror</genero>
+                    <sinopsis>
+                        Tras presenciar la muerte accidental de su madre, Lidia y su padre se
+                        refugian en un faro para lidiar con el dolor. Pero desde que llegan, las
+                        pesadillas se apoderan de Lidia, dañando aun más la relación con él. Ambos
+                        tendrán que aprender a confiar el uno en el otro antes de que las pesadillas
+                        se conviertan en reales.
+                    </sinopsis>
+                    <actores>
+                        <actor nombre="Hugo Silva" papel="Protagonista" />
+                        <actor nombre="Irene Montala" papel="Secundario" />
+                        <actor nombre="Zoe Arnao" papel="Secundario" />
+                    </actores>
+                </pelicula>
+            </sala>
+            <sala aforo="80" numero="2">
+                <pelicula anho="2024" director="Daniel Calparsolo" nombre="El correo">
+                    <clasificacion>+16</clasificacion>
+                    <idioma>Español</idioma>
+                    <duracion>101</duracion>
+                    <genero>Drama</genero>
+                    <sinopsis>
+                        Año 2002. Iván es un ambicioso chaval de Vallecas al que su barrio le queda
+                        pequeño. Desde su puesto de aparcacoches en un lujoso club de golf de la
+                        capital, pronto dará su primer gran paso: convertirse en correo belga para
+                        una organización internacional dedicada al blanqueo de dinero. Iván empezará
+                        a transportar maletines rumbo a Bruselas y Ginebra. Pero Iván no puede dejar
+                        de mirar hacia lo más alto. El dinero negro de verdad fluye en la Costa del
+                        Sol. Empresarios de la construcción, políticos corruptos, banqueros,
+                        deportistas, la mafia china... Iván quiere su parte del pastel.
+                    </sinopsis>
+                    <actores>
+
+                        <actor nombre="Arón Piper" papel="Principal" />
+                        <actor nombre="María Pedraza" papel="Principal" />
+                        <actor nombre="Luis Tosar" papel="Principal" />
+                    </actores>
+                </pelicula>
+            </sala>
+        </salas>
+    </cine>
+
+    <cine localidad="Huelva" nombre="Artesiete Holea">
+        <direccion>Ronda Exterior Sur, 21007 Huelva</direccion>
+        <telefono>959610009</telefono>
+        <salas>
+            <sala aforo="120" numero="1">
+                <pelicula anho="2024" director="Salvador Calvo" nombre="Valle de sombras">
+                    <clasificacion>+16</clasificacion>
+                    <idioma>Español</idioma>
+                    <duracion>120</duracion>
+                    <genero>Drama</genero>
+                    <sinopsis>
+                        Cordillera del Himalaya, año 1999. Quique, Clara y el pequeño Lucas,
+                        disfrutan de sus primeras vacaciones juntos en el norte de la India. Una
+                        noche, durmiendo al raso durante una tormenta, sufren un brutal ataque por
+                        unos bandidos. Horas después, Quique es rescatado por un nativo y trasladado
+                        a una remota aldea aislada en las montañas. Allí, incomunicado y sin
+                        posibilidad de regresar a la civilización, permanece hasta la llegada del
+                        invierno, que permite la formación de la única vía de salida de la aldea: El
+                        río helado. El camino de vuelta, lleno de peligros, en compañía de varios
+                        niños de la aldea, pondrá a prueba todo lo que Quique ha aprendido durante
+                        su estancia en el corazón del Himalaya.
+                    </sinopsis>
+                    <actores>
+                        <actor nombre="Miguel Herrán" papel="Protagonista" />
+                        <actor nombre="Morup Namgyal " papel="Secundario" />
+                    </actores>
+                </pelicula>
+            </sala>
+            <sala aforo="90" numero="2">
+            </sala>
+        </salas>
+    </cine>
+</cines>
